@@ -6,14 +6,14 @@ Real-time streaming of crypto tokens achieved using Kafka and Spark Structured S
 
 ## Table of Contents
 
-* [Project Description](https://chat.openai.com/?model=text-davinci-002-render-sha#project-description)
-* [Installation](https://chat.openai.com/?model=text-davinci-002-render-sha#installation) and Usage
-* Acknowledgements
-* [License](https://chat.openai.com/?model=text-davinci-002-render-sha#license)
+* [Project Description](https://github.com/Jawakar/realtime_coins_stream#project-description)
+* [Installation and Usage](https://github.com/Jawakar/realtime_coins_stream#installation-and-usage) 
+* [Acknowledgements](https://github.com/Jawakar/realtime_coins_stream#acknowledgements) 
+* [License](https://github.com/Jawakar/realtime_coins_stream#license)
 
 ## Project Description
 
-This project showcases the utilization of Kafka and Spark Structured Streaming to enable seamless real-time streaming of crypto tokens. By leveraging the power of these technologies, the project provides a robust and efficient solution for processing and analyzing streaming data. Additionally, the project incorporates a data warehousing solution to store the streaming data, facilitating further exploration and business intelligence purposes.
+This project showcases the utilisation of Kafka and Spark Structured Streaming to enable seamless real-time streaming of crypto tokens. Furthermore, the project also incorporates a data warehousing solution to store the streaming data, for further exploration and business intelligence purposes.
 
 ## Installation and Usage
 
@@ -67,4 +67,4 @@ This project was inspired by the following resources:
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/Jawakar/realtime_coins_stream/blob/main/requirements.txt).
+This project is licensed under the [MIT License](https://github.com/Jawakar/realtime_coins_stream/blob/main/LICENSE).
